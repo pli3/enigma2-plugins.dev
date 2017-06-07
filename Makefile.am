@@ -3,7 +3,6 @@ ACLOCAL_AMFLAGS = -I m4
 SUBDIRS = \
 	aihdcontroler \
 	antiscrollbar \
-	audiosync \
 	automaticcleanup \
 	automaticvolumeadjustment \
 	autoresolution \
@@ -49,7 +48,6 @@ SUBDIRS = \
 	multirc \
 	ncidclient \
 	netcaster \
-	networkbrowser \
 	ofdb \
 	orfat \
 	orfteletext \

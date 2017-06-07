@@ -59,12 +59,6 @@ antiscrollbar/Makefile
 antiscrollbar/meta/Makefile
 antiscrollbar/src/Makefile
 
-audiosync/Makefile
-audiosync/img/Makefile
-audiosync/meta/Makefile
-audiosync/po/Makefile
-audiosync/src/Makefile
-
 automaticcleanup/Makefile
 automaticcleanup/meta/Makefile
 automaticcleanup/po/Makefile
@@ -295,13 +289,6 @@ netcaster/src/Makefile
 netcaster/src/bin/Makefile
 netcaster/src/bin/interface/Makefile
 netcaster/src/etc/Makefile
-
-networkbrowser/Makefile
-networkbrowser/meta/Makefile
-networkbrowser/po/Makefile
-networkbrowser/src/Makefile
-networkbrowser/src/icons/Makefile
-networkbrowser/src/lib/Makefile
 
 ncidclient/Makefile
 ncidclient/meta/Makefile
