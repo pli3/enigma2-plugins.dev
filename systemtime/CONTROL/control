@@ -1,0 +1,5 @@
+Package: enigma2-plugin-systemplugins-systemtime
+Version: 1.5-git
+Description: system time for enigma2 box 
+Maintainer: OpenPLi team <forum@openpli.org>
+Depends: ntpdate

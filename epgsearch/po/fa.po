@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: epg search Persian Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-22 20:42+0100\n"
+"PO-Revision-Date: 2014-11-22 20:45+0100\n"
+"Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
+"Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "New Search"
+msgstr "جستجوی جدید"
+
+msgid "History"
+msgstr "پیشینه"
+
+msgid "Add timer"
+msgstr "اضافه کردن تایمر"
+
+msgid "EPG Search"
+msgstr "جستجو برنامه راهنمای الکترونیک"
+
+msgid "Enter text to search for"
+msgstr "وارد کردن یک متن به منظور جستجو برای "
+
+msgid "Import from Timer"
+msgstr "وارد کردن از تایمر"
+
+msgid "Import from EPG"
+msgstr "وارد کردن از برنامه راهنمای الکترونیک"
+
+msgid "Import from AutoTimer"
+msgstr "وارد کردن از تایمر خودکار"
+
+msgid "Save search as AutoTimer"
+msgstr "ذخیره سازی جستجو به عنوان یک تایمر خودکار"
+
+msgid "Export selected as AutoTimer"
+msgstr "صادر کردن منتخب به عنوان یک تایمر خودکار "
+
+msgid "Setup"
+msgstr ""
+
+#, python-format
+msgid "Could not read AutoTimer timer list: %s"
+msgstr "%s نمی توانست لیست تایمر پلاگین تایمر خودکار را بخواند"
+
+msgid "Select text to search for"
+msgstr "انتخاب یک متن برای جستجوی"
+
+msgid "No history"
+msgstr "بدون پیشینه"
+
+msgid "Cancel"
+msgstr "لغو کردن"
+
+msgid "OK"
+msgstr "موزد تایید است"
+
+msgid "Select a timer to search"
+msgstr "انتخاب یک تایمر برای جستجو "
+
+msgid "Channel Selection"
+msgstr "انتخاب کانال"
+
+msgid "Search EPG"
+msgstr "جستجوی یک برنامه راهنمای الکترونیک"
+
+msgid "search EPG..."
+msgstr "جستجوی برنامه راهنمای الکترونیک"
+
+#, fuzzy
+msgid "search EPG"
+msgstr "جستجوی یک برنامه راهنمای الکترونیک"
+
+#, fuzzy
+msgid "Search event in EPG"
+msgstr "جستجوی یک برنامه راهنمای الکترونیک"
+
+#, fuzzy
+msgid "EPGSearch Setup"
+msgstr "جستجو برنامه راهنمای الکترونیک"
+
+msgid "Length of History"
+msgstr ""
+
+msgid "How many entries to keep in the search history at most. 0 disables history entirely!"
+msgstr ""
+
+msgid "Add \"Search\" Button to EPG"
+msgstr ""
+
+msgid "If this setting is enabled, the plugin adds a \"Search\" Button to the regular EPG."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to event menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the event menu."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to channel menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the channel selection context menu."
+msgstr ""
+

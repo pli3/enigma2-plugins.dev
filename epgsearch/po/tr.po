@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2 EPGSearch plugin Turkish Locale\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-22 20:42+0100\n"
+"PO-Revision-Date: 2014-11-22 20:47+0100\n"
+"Last-Translator: Zülfikar VEYİSOĞLU <z.veyisoglu@hobiagaci.com>\n"
+"Language-Team: http://hobiagaci.com <z.veyisoglu@hobiagaci.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "New Search"
+msgstr "Yeni Arama"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Add timer"
+msgstr "Zamanlayıcı eke"
+
+msgid "EPG Search"
+msgstr "EPG Arama"
+
+msgid "Enter text to search for"
+msgstr "Arama metnini girin"
+
+msgid "Import from Timer"
+msgstr "Zamanlayıcıdan içeri al"
+
+msgid "Import from EPG"
+msgstr "EPG'den içeri al"
+
+msgid "Import from AutoTimer"
+msgstr "Otomatik zamanlayıcıdan içeri al"
+
+msgid "Save search as AutoTimer"
+msgstr "Aramayı AutoTimer olarak kaydet"
+
+msgid "Export selected as AutoTimer"
+msgstr "Seçililenleri AutoTimer olarak dışarı ver"
+
+msgid "Setup"
+msgstr ""
+
+#, python-format
+msgid "Could not read AutoTimer timer list: %s"
+msgstr "AutoTimer zamanlayıcı listesi okunamıyor : %s"
+
+msgid "Select text to search for"
+msgstr "Arama metnini seçin"
+
+msgid "No history"
+msgstr "Geçmiş kaydı yok"
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Select a timer to search"
+msgstr "Arama zamanını seçin"
+
+msgid "Channel Selection"
+msgstr "Kanal Seçimi"
+
+msgid "Search EPG"
+msgstr "EPG'de ara"
+
+msgid "search EPG..."
+msgstr "EPG'de ara..."
+
+msgid "search EPG"
+msgstr "EPG'de ara"
+
+#, fuzzy
+msgid "Search event in EPG"
+msgstr "EPG'de ara"
+
+#, fuzzy
+msgid "EPGSearch Setup"
+msgstr "EPG Arama"
+
+msgid "Length of History"
+msgstr ""
+
+msgid "How many entries to keep in the search history at most. 0 disables history entirely!"
+msgstr ""
+
+msgid "Add \"Search\" Button to EPG"
+msgstr ""
+
+msgid "If this setting is enabled, the plugin adds a \"Search\" Button to the regular EPG."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to event menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the event menu."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to channel menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the channel selection context menu."
+msgstr ""
+

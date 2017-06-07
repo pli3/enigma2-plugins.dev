@@ -1,0 +1,120 @@
+# Spanish translations for enigma2-plugins package.
+# Copyright (C) 2009 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Enigma2 - Plugin epgsearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-22 20:42+0100\n"
+"PO-Revision-Date: 2014-11-22 20:47+0100\n"
+"Last-Translator: maja <jovanovic@gmx.ch>\n"
+"Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Serbian\n"
+"X-Poedit-Country: SERBIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Search"
+msgstr "Traženje"
+
+msgid "New Search"
+msgstr "Nova pretraga"
+
+msgid "History"
+msgstr "Istorija"
+
+msgid "Add timer"
+msgstr "Dodaj tajmer"
+
+msgid "EPG Search"
+msgstr "EPG pretraga"
+
+msgid "Enter text to search for"
+msgstr "Unesi tekst za traženje"
+
+msgid "Import from Timer"
+msgstr "Uvezi iz tajmera"
+
+msgid "Import from EPG"
+msgstr "Uvezi iz EPG"
+
+msgid "Import from AutoTimer"
+msgstr "Uvezi iz autotajmera"
+
+msgid "Save search as AutoTimer"
+msgstr "Sačuvaj pretragu kao autotajmer"
+
+msgid "Export selected as AutoTimer"
+msgstr "Izvezi izabrano kao autotajmer"
+
+msgid "Setup"
+msgstr ""
+
+#, python-format
+msgid "Could not read AutoTimer timer list: %s"
+msgstr "Ne mogu pročitati listu autotajmera: %s"
+
+msgid "Select text to search for"
+msgstr "Izaberi tekst za pretragu"
+
+msgid "No history"
+msgstr "Bez istorije"
+
+msgid "Cancel"
+msgstr "Otkaži"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select a timer to search"
+msgstr "Izaberi tajmer za pretragu"
+
+msgid "Channel Selection"
+msgstr "Izbor kanala"
+
+msgid "Search EPG"
+msgstr "Pretraga EPG"
+
+msgid "search EPG..."
+msgstr "pretraga EPG..."
+
+msgid "search EPG"
+msgstr "pretraga EPG"
+
+#, fuzzy
+msgid "Search event in EPG"
+msgstr "Pretraga EPG"
+
+#, fuzzy
+msgid "EPGSearch Setup"
+msgstr "EPG pretraga"
+
+msgid "Length of History"
+msgstr ""
+
+msgid "How many entries to keep in the search history at most. 0 disables history entirely!"
+msgstr ""
+
+msgid "Add \"Search\" Button to EPG"
+msgstr ""
+
+msgid "If this setting is enabled, the plugin adds a \"Search\" Button to the regular EPG."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to event menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the event menu."
+msgstr ""
+
+msgid "Add \"Search event in EPG\" to channel menu"
+msgstr ""
+
+msgid "Adds \"Search event in EPG\" item into the channel selection context menu."
+msgstr ""
+
